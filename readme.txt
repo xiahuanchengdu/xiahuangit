@@ -2,7 +2,7 @@ public void test() {
 	
    
     
-
+   new function finished
 }
 
 master·ÖÖ§ÐÞ¸Ä
