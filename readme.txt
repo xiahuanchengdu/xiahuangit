@@ -1,7 +1,7 @@
 public void test() {
 	
    
-    
+    bug is fixed
 
 }
 
